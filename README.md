@@ -210,7 +210,6 @@ churn_flags = predictions >= 0.540
 ## 📚 Documentation
 
 - **[RESULTS.md](experiments/RESULTS.md)** - Detailed results & analysis
-- **[Notebooks](notebooks/)** - Exploratory data analysis
 - **Code Comments** - Inline documentation throughout
 
 ---
@@ -269,22 +268,9 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 ## 📧 Contact
 
 For questions or collaboration:
-- GitHub Issues: [Create an issue](https://github.com/yourusername/customer-churn-prediction/issues)
-- Email: your.email@example.com
+- Email: nurbekkhalimjonov070797@gmail.com
 
 ---
-
-## 🎓 Citation
-
-If you use this project, please cite:
-```bibtex
-@software{customer_churn_prediction,
-  author = {Your Name},
-  title = {Customer Churn Prediction - Production ML System},
-  year = {2025},
-  url = {https://github.com/yourusername/customer-churn-prediction}
-}
-```
 
 ---
 
