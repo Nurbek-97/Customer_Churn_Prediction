@@ -49,9 +49,6 @@ customer-churn/
 │   ├── calibration.py            # Probability calibration
 │   └── profit_optimizer.py       # Business metric optimization
 │
-├── notebooks/
-│   └── 00_eda.ipynb             # Exploratory Data Analysis
-│
 ├── experiments/
 │   ├── RESULTS.md               # Complete results report
 │   ├── roc_curves.png           # ROC curve visualization
