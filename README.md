@@ -268,11 +268,3 @@ For questions or collaboration:
 - Email: nurbekkhalimjonov070797@gmail.com
 
 ---
-
----
-
-**⭐ If you find this project helpful, please star the repository!**
-
----
-
-**Built with ❤️ using Kaggle Grandmaster best practices**
